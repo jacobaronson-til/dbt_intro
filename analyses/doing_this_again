@@ -1,0 +1,1 @@
+select *, 'thx lily' as hi from back_to_school.jaffleshop.customers
